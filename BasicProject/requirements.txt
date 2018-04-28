@@ -1,1 +1,8 @@
-django >=1.9, <2
+pip
+pip
+pkg_resources
+setuptools
+setuptools
+test
+wheel
+wheel
