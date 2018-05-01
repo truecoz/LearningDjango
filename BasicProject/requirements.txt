@@ -1,8 +1,0 @@
-pip
-pip
-pkg_resources
-setuptools
-setuptools
-test
-wheel
-wheel
